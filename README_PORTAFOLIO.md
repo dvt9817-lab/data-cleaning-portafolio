@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning Portfolio
+# 🧹 Data Cleaning Portafolio
 
 Repositorio con mis proyectos de limpieza, procesamiento y análisis de datos. Cada carpeta numerada es un proyecto independiente: dataset original, dataset limpio, notebook con el proceso y su propia documentación.
 
