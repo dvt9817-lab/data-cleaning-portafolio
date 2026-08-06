@@ -17,6 +17,6 @@ Repositorio con mis proyectos de limpieza, procesamiento y análisis de datos. C
 
 ## 👩‍💻 Sobre mí
 
-Analista Funcional en transición hacia roles de Analítica de Datos y BI. Trabajo principalmente con Power BI (DAX, Power Query), SQL Server y Python, construyendo este portafolio como evidencia práctica de mi proceso de aprendizaje y trabajo con datos reales.
+Analista Funcional en transición hacia roles de Analítica de Datos y BI. Trabajo principalmente con Power BI (DAX, Power Query), SQL Server y Python.
 
 - GitHub: [@dvt9817-lab](https://github.com/dvt9817-lab)
