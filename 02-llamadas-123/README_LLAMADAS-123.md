@@ -1,6 +1,7 @@
 # 🚑 Llamadas de Urgencias y Emergencias — Línea 123 (Bogotá)
 
 **Autor:** Daniela Vargas
+
 **Herramientas:** Python (Pandas) en Google Colab
 **Fuente:** [Datos Abiertos Bogotá — Secretaría Distrital de Salud](https://datosabiertos.bogota.gov.co/dataset/llamadas-de-urgencias-y-emergencias-que-ingresan-a-traves-de-la-linea-123)
 **Periodo:** Enero – Junio 2026 (6 archivos mensuales combinados, ~56,000 registros)
