@@ -7,6 +7,7 @@ Repositorio con mis proyectos de limpieza, procesamiento y análisis de datos. C
 | # | Proyecto | Descripción | Herramientas |
 |---|---|---|---|
 | 01 | [Supermarket Sales](./01-supermarket-sales) | Limpieza de dataset de ventas de supermercado (1,000 transacciones) preparado para análisis en Power BI | Python (Pandas), Google Colab |
+| 02 | [Llamadas 123](./02-llamadas-123) | Descarga automatizada, combinación y limpieza de 6 meses de llamadas de urgencias y emergencias de Bogotá (~56,000 registros) | Python (Pandas), Google Colab |
 
 ## 🛠️ Stack técnico
 
